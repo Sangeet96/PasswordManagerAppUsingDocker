@@ -7,7 +7,9 @@ A secure and easy-to-use Password Manager app built using the MERN stack, now fu
 
 ## 🚀 **Live Demo (Non-Docker)**  
 Older version: https://github.com/Sangeet96/Password_Manager_App
-👉 [Password Manager App](https://password-manager-app-frontend.vercel.app/)  
+
+👉 Link : [Password Manager App](https://password-manager-app-frontend.vercel.app/)  
+
 ✅ This is the deployed version of the project **without Docker**.
 
 ---
