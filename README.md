@@ -10,7 +10,7 @@ Link : [Password Manager App](https://password-manager-app-frontend.vercel.app/)
 
 ---
 
-## **What I Did**
+## **What I Did?**
 - **Dockerized the entire MERN app** into four containers:
   - **Backend:** Node.js + Express.js server.
   - **Frontend:** React.js interface.
@@ -22,7 +22,7 @@ Link : [Password Manager App](https://password-manager-app-frontend.vercel.app/)
 
 ---
 
-##  **What I Learned**
+##  **What I Learned?**
 - **Containerization:** 
   - Isolating services into separate containers.
   - Packaging the entire app into reusable and portable Docker images.
