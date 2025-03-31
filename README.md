@@ -1,16 +1,12 @@
-# PasswordManagerAppUsingDocker
-
-# 🛠️ Password Manager App (Dockerized)  
-A secure and easy-to-use Password Manager app built using the MERN stack, now fully Dockerized for better scalability and reproducibility.
+# Password Manager App (Dockerized)  
+An easy-to-use Password Manager app built using the MERN stack, fully Dockerized for better scalability and reproducibility.
 
 ---
 
 ## 🚀 **Live Demo (Non-Docker)**  
-Older version: https://github.com/Sangeet96/Password_Manager_App
+**Older Version** repo: https://github.com/Sangeet96/Password_Manager_App
 
-👉 Link : [Password Manager App](https://password-manager-app-frontend.vercel.app/)  
-
-✅ This is the deployed version of the project **without Docker**.
+Link : [Password Manager App](https://password-manager-app-frontend.vercel.app/) This is the deployed version of the project **without Docker**.
 
 ---
 
